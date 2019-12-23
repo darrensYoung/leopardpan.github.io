@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
+title: 王枞阳
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到我的个人~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: zongyang
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 前台端茶工程师
+url: "https://github.com/darrensYoung"
 
 # Comment
 comment:
@@ -16,13 +16,14 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    CSDN: wangzongyang1025_
+    weibo: 5662359563
+    github: darrensYoung
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: a655b1b513c3
     # twitter: 
-    mail: leopardpan@icloud.com
+    # mail: darrensYoung@163.com
 
 
 # 百度统计 
@@ -41,7 +42,6 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
